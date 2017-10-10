@@ -18,8 +18,4 @@ $(document).ready(function(){
     $("body").addClass("red-background");
   });
 
-
-
-
-
 });

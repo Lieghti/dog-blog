@@ -4,3 +4,7 @@
 .red-background {
   background-color: red;
 }
+.clickable {
+  cursor: pointer;
+  color: #c62415; 
+}
